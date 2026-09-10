@@ -8,10 +8,10 @@ url: "https://savimoon305.github.io"
 baseurl: "/finalproject"
 author: "savimoon305"
 email: ""
-telar_theme: "austin" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "austin"
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
-collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
+telar_language: en
+collection_mode: false
 
 # Story Interface Settings
 story_interface:
