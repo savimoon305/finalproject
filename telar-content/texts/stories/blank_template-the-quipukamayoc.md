@@ -4,7 +4,7 @@ title: "The Quipukamayoc"
 
 The khipukamayoc, "a keeper of knots" is an individual who can translate khipus.
 Below, is a drawing by Guaman Poma from his book called the "Nueva Crónica y buen gobierno." It displays a quipukamayoc (Right) translating and reciting information to a noble man.
-![Guamán Poma, Nueva corónica y buen gobierno — Page 337](https://savimoon305.github.io/finalproject/iiif/objects/guaman-poma-nueva/page-1/full/max/0/default.jpg)
+![Guamán Poma, Nueva corónica y buen gobierno — Page 337](https://savimoon305.github.io/finalproject/iiif/objects/guaman-poma-nueva-2/page-1/full/max/0/default.jpg)
 
 To further analyze the quipu; there are nine knots that are identified and clustered together. Whether they were on the same piece of cord or the amount of knots in one loop. Also, the different shades of brown, in this case, implies that this particular quipu may have been different colors.
 

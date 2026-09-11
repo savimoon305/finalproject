@@ -1,7 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
 1,,,,,,Who can read it?,"The bridge between writing and speech can stem from multiple different smaller topics within it. Let's take a look at how it is conveyed through the act of writing and who can translate it. ",,,,,,,,
-2,haptic-khipu,0.48290646086990935,0.48145256824631955,1.296,,The Quipu,"The quipu was a record-keeping device used by people in early Mesoamerica before the European Invasion. ",,,,,,,,
+2,haptic-khipu,0.46903292443093897,0.48320643880270264,1.296,,The Quipu,"The quipu was a record-keeping device used by people in early Mesoamerica before the European Invasion. ",,,,,,,,
 3,haptic-khipu-cluster,0.5112441773738101,0.46236849468735897,1.0804911323328785,,Let's take a closer look.,"Here, a cluster of knots is identified in the Khipu. However, who could translate this?",,Learn more,blank_template-the-quipukamayoc.md,Writing without Words,blank_template-a-connection-between.md,,,
 4,valades-rhetorica-christiana,0.4337152372175613,0.47803715041677763,1.08,,Valades,"Diego de Valedes's ",,,,,,,,
 5,valades-rhetorica-christiana,0.4377071389456326,0.4818541153841923,2.777777777777778,,A Closer Look,,,Learn more,blank_template-valadess-image-and.md,,,,,
