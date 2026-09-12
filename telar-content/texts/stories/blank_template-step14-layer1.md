@@ -1,5 +1,5 @@
----
-title: "Learn more"
----
+Simone Rodriguez was a Venezuelan writer and educator who developed a creative layout of writing and painting. He had a unique writing style that is atypical of standardized modern writing. Containing unique placement of punctuation, spacing, placement of words, or different typefaces. His word arrangement aims to connect written language to spoken communication. Striving readers to not simply just read words in a traditional format, but rather designed to make readers actively engage with his ideas.
 
-DELETE THIS
+In Emmanuel Velayos's article, he analyzes Rodriguez's writings. Rodriguez's visual arrangement of words is designed to represent parts of oral speech. The unique format is used as a guide for the reader to help understand and pronounce them. Speaking out loud can hold multiple tones or meanings for each person individually. 
+
+Emmanuel Velayos, "Painting Words, Drawing Republics: Embodied Arts and New Beginnings in Simón Rodríguez"](https://ucsb.instructure.com/courses/34566/files/7350489?wrap=1 "Velayos Emmanuel--Painting Words Drawing Republics.pdf")
