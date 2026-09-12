@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+Writing and speech play an important role in Simón Rodríguez’s ideas about education because they allow knowledge to be shared and passed down. He believes people must be educated so they can learn from the past and avoid repeating its mistakes. Rodríguez shows that knowledge can exist through both written and spoken forms, which makes it easier for people to learn from ideas that came before them. However, simply having access to knowledge is not enough. People need to be taught how to understand and use it in their own society. This is why Rodríguez connects education to creating a better and more informed society. Education can help people recognize problems, question unfair systems, and make better decisions for the future. Through writing, speech, and education, ideas can continue to reach new generations instead of being forgotten.

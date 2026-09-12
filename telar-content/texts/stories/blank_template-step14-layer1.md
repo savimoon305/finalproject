@@ -1,5 +1,5 @@
-Simone Rodriguez was a Venezuelan writer and educator who developed a creative layout of writing and painting. He had a unique writing style that is atypical of standardized modern writing. Containing unique placement of punctuation, spacing, placement of words, or different typefaces. His word arrangement aims to connect written language to spoken communication. Striving readers to not simply just read words in a traditional format, but rather designed to make readers actively engage with his ideas.
+---
+title: "Learn more"
+---
 
-In Emmanuel Velayos's article, he analyzes Rodriguez's writings. Rodriguez's visual arrangement of words is designed to represent parts of oral speech. The unique format is used as a guide for the reader to help understand and pronounce them. Speaking out loud can hold multiple tones or meanings for each person individually. 
-
-Emmanuel Velayos, "Painting Words, Drawing Republics: Embodied Arts and New Beginnings in Simón Rodríguez"](https://ucsb.instructure.com/courses/34566/files/7350489?wrap=1 "Velayos Emmanuel--Painting Words Drawing Republics.pdf")
+Writing, therefore, is not something that always passes through speech, instead it may exist in many different mediums and may convey the information it holds through means other than words alone. Pictures may be the medium through which ideas are transmitted to the reader, or other things (like knots!) Speech is the thing that is usually thought of as being transmitted through writing, but writing does not have to be restricted to that. Ideas have so many different ways to be conveyed. 
