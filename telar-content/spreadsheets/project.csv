@@ -1,3 +1,6 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
 0,blank_template,Writing and Speech Throughout History,From documentation and education to political change,"Mary Schwerdt, Savanna Moon, Afsana Anannya, Andrea Garcia, Angel Cabello",,yes
+1,writing-and-speech,Writing and Speech Transform the Political Narrative,A comparison of Gumán Poma and Simón Rodriguez,Mary Schwerdt,,yes
+2,when-speech-becomes,When speech becomes writing,documentation examples of how speech lives through writing,Andrea Garcia,,
+3,writing-without-speech,Writing without speech,,,,

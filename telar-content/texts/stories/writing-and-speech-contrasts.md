@@ -1,0 +1,7 @@
+---
+title: "Contrasts"
+---
+
+However, Guaman Poma was describing an existing society of the Andean people, with a history and traditions. He was demonstrating to the King that these people had an already established form of governing, and moral traditions before colonization. A a unique point of veiw  from an Andean, he creates an arguement with evdidence, Guaman Poma is seeking justice. Whereas, Rodiriguez wrote after the colapse of monarchical rule, and his challenge was not to reform, but to create a new form, to educate the citizens so they also would be capable of imagining a whole new system- by using inoovative typae face, leaving spaces for processing thought. The scant use of bold words across the page was in contrast with Guamn Poma's lengthy descriptions. While Simon Rodriguez was writing a new history in a new way, Guaman Poma's testamony was based on history, the language, words and culture of his people,
+
+Guamán Poma de Ayala, Felipe. _El primer nueva corónica y buen gobierno_. Completed c. 1615. Original manuscript housed in the [Royal Danish Library]

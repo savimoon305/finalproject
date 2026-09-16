@@ -1,0 +1,11 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,,,,,,What writing passes through speech?,"There are many forms of documents in which writing can preserve spoken words to communicate knowledge, stories, and ideas. 
+",,,,,,,,
+2,florentine-codex-book,0.5,0.5,1,,Preserving Spoken Language (Florentine Codex),"The Florentine Codex shows how spoken knowledge and tradition could be preserved through writing. ",,,,,,,,
+3,florentine-codex-book,0.36871140687401366,0.46135442040457236,4,,Lets take a closer look,Spoken language was captured through speech glyphs surrounded by writing.,,Learn more,when-speech-becomes-learn-more.md,,,,,
+4,simon-rodriguez-imprenta,0.5270916224580017,0.37326139088729027,1.2,,Writing carrying spoken ideas (Simon Rodriguez),"Simon Rodriguez showcases how spoken ideas can be communicated through written words, even with a unique arrangement. ",,,,,,,,
+5,simon-rodriguez-imprenta,0.4219957955296167,0.3526523562611458,3.353335849838649,,"Lets take a closer look ","Rodriguez believed that written signs could represent the way words were spoken, showing the process of how thoughts and ideas were formed. ",,Learn more,when-speech-becomes-step5-layer1.md,,,,,
+6,simon-rodriguez-imprenta,0.49989527843231474,0.20488301418703836,2.9859839999999993,," Different text","Using different text sizes can emphasize certain words and ideas, similar to speaking when a speaker uses tone to emphasize certain words.",,,,,,,,
+7,simon-rodriguez-circulacion,0.4509699793747931,0.5836091196373109,2.0736,,Brackets,"The brackets he added in his writing also capture connecting ideas together. Expressing almost how he grouped his thoughts when speaking. ",,,,,,,,
+8,,,,,,Speech to writing,"Overall, this documentation showcases how speaking can be captured through writing. The Florentine Codex expresses spoken knowledge/tradition through imagery wrapped in text. Simon Rodriguez showcases the elements of speaking being represented in writing. ",,,,,,,,

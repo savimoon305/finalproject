@@ -1,0 +1,7 @@
+---
+title: "Change that starts on the page...."
+---
+
+Language is the primary vehicle for human consciousnsess, empathy and collective action. Spoken words galvanize the moment, whereas written words create an enduring structural testament. Both Simon Rodriguez and Guamn Poma understood the power of political language and use innovate forms of communication to imagine a different social order.  Both men challenged the existing system and used their writing to move their audiences towards change. In his Nueva Corónica y Bien Goberino, Guaman Poma de Ayala uses the written languaange of the Spanish colonizers, hundreds of drawings and Christian theology to document the mis-treatment of the indigenous to supplicate the King of Spain for change and to create a new scocio-political order.  In _Luce y Virtues Sociales_, Rodriguez experiments with typeface and painted word, attempting to capture the feelings and meanings that could be lost on the page.  Both athors were not only using words to move their audiences, they were educating, reshaping consciousness and creating new ways to govern and new political possibilities.  
+
+Rodríguez, S. (1975). _Luces y virtudes sociales_. In _Obras completas_. Caracas: Universidad Simón Rodríguez. (Original work published 1834/1840
